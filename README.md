@@ -15,4 +15,4 @@ It is a housing website.
     This is a non responsive website ( only have html and css ).
   </li>
 </ul>
-Author - aryan chand
+Author - Aryan chand
